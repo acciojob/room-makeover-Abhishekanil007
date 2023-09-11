@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+*{
+	color:red;
+}
+.favorite-color{
+	color:black;
+}
